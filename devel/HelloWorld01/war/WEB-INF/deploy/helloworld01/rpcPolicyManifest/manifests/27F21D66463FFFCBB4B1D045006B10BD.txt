@@ -1,0 +1,2 @@
+serviceClass: cz.cvut.fel.oi.via.client.GreetingService
+path: B4B46782B6947FF11F196C8B46ECBB0F.gwt.rpc
